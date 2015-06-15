@@ -14,7 +14,7 @@
 ．改為`<div class="container-fluid">` → 佔滿頁面      
 (皆要有`</div>`結尾      
 
-<div class="col-md-12"> 分欄位    
+`<div class="col-md-12">` 分欄位    
 
 
 
