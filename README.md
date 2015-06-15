@@ -12,6 +12,10 @@
 在`<body>`行下面,打`<div>`,`</div>`拉到中間打的下面        
 ．改為`<div class="container">` → 置中      
 ．改為`<div class="container-fluid">` → 佔滿頁面      
+(皆要有`</div>`結尾      
+
+<div class="col-md-12"> 分欄位    
+
 
 
 
