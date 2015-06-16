@@ -35,4 +35,28 @@
 
 ◎Components Bootstrap 選擇圖示網頁      
 圖示 → `<i class="glyphicon...."></i>`      
-在`<head>`裡加入`<link...."css/main.css">`
+在`<head>`裡加入`<link...."css/main.css">`      
+改圖示大小顏色 → 在main.css打 .features .glyphicon { font-size:32px; color:red; }      
+
+在最下面做頁腳      
+`<footer class="container-fluid">`      
+到main.css打footer{ background-color:顏色; }      
+將頁腳劃分4欄,對齊      
+
+`<div class=".....">`      
+`<h4>`Links`</h4>`    
+`<ul class="list-unstyle">` (加了就無點      
+`<li><a href="網址">`home`</a></li>` (連結網址      
+`<li><a href="網址">`contact`</a></li>`       
+`<li><a href="網址">`news`</a></li>`       
+`</ul>`      
+`</div>`      
+
+改按鈕 → `<buttton type="button" class="btn btn-大小 btn-顏色">`      
+．大小 lg, sm, xs, block      
+．顏色 default(白), primary(藍), success(綠), info(淺藍), warning(黃), danger(紅)      
+
+加well會有邊框      
+
+導航nav      
+`<a class="na
