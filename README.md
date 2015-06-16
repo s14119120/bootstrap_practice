@@ -71,7 +71,7 @@
 ．top 頂部, bottom 底部, right 右, left 左      
 `<div class="navbar navbar-default navbar-static-top">`      
 ．static 靜態(人性化      
-．fixed 固定(陰魂不散 , 不遮蓋到 → nain.css 打body{ padding-top:70px; }      
+．fixed 固定(陰魂不散 , 不遮蓋到 → 到main.css 打body{ padding-top:70px; }      
 
 
 
