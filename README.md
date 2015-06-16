@@ -17,7 +17,12 @@
 
 `<div class="col-md-12">` 分欄位    
 ．xs>768px以下, sm>768~992px, md>992~1200px, lg>1200px以上 (size)      
+
 `<img src="圖片網址" style="width:100%">`      
+．class="img-rounded" 角變成圓角      
+．class="img-circle" 圖片變成圓形      
+．class="img-thumbnail" 增加內邊距邊框      
+
 `<div class="row">` → 增加可讀性(可加可不加)      
 加間隔 → 在分欄位後打col-md-offset-1 (左右各縮1)      
 ．(ex: class="cd-md-10 col-md-offset-1"      
@@ -54,9 +59,19 @@
 
 改按鈕 → `<buttton type="button" class="btn btn-大小 btn-顏色">`      
 ．大小 lg, sm, xs, block      
-．顏色 default(白), primary(藍), success(綠), info(淺藍), warning(黃), danger(紅)      
+．顏色 default 白, primary 藍, success 綠, info 淺藍, warning 黃, danger 紅      
 
 加well會有邊框      
 
 導航nav      
-`<a class="na
+`<a class="navbar-brand" href="連結">`....`</a>`      
+`<ul class="nav nav-pills">` 藥丸狀      
+．nav-tabs 標籤狀      
+．navbar-nav navbar-right 靠右      
+．top 頂部, bottom 底部, right 右, left 左      
+`<div class="navbar navbar-default navbar-static-top">`      
+．static 靜態(人性化      
+．fixed 固定(陰魂不散 , 不遮蓋到 → nain.css 打body{ padding-top:70px; }      
+
+
+
