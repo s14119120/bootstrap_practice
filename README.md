@@ -73,6 +73,16 @@
 ．static 靜態(人性化      
 ．fixed 固定(陰魂不散 , 不遮蓋到 → 到main.css 打body{ padding-top:70px; }      
 
+響應式的導航欄      
+改`<ul class="nav navbar-nav navbar-right collapse navbar-collapse">` (手機時隱藏 手機以上顯示出來      
 
-
+加入`<div class="navbar-header"> → 滿版      
+ `<a.....>`      
+加入`<buttton type="button" class="navnar-toggle" data-toggle="collapse" data-target=".navbar-collapse">`      
+ `<span class="sr-only">`Toggle navigation `</span>`      
+ `<span class="icon-bar"></span>`(裡面的線      
+ `<span class="icon-bar"></span>`      
+ `<span class="icon-bar"></span>`      
+ `</buttton>`      
+ `</div>`
 
