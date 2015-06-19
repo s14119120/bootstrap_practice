@@ -78,7 +78,7 @@
 
 加入`<div class="navbar-header">` → 滿版      
 
-加入`<buttton type="button" class="navnar-toggle" data-toggle="collapse" data-target=".navbar-collapse">`      
+加入`<buttton type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">`      
 `<span class="sr-only">`Toggle navigation `</span>`      
 `<span class="icon-bar"></span>`(裡面的線      
 `<span class="icon-bar"></span>`      
